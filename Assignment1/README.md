@@ -1,5 +1,7 @@
 # Building a Datawarehouse from legacy OLTP
 
+Key assumptions: Start with Kimball dimensional modeling
+
 Approach Framework
 Phase 0: Strategic Foundation (Days 1-2)
 Goal: Make informed decisions, not assumed ones
